@@ -217,6 +217,29 @@ strong{
     color: var(--white);
 }
 
+#my-projects-list{
+    display: flex;
+    gap: 2rem;
+    padding: 2rem;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+#my-projects-list a{
+    text-decoration: none;
+    color: var(--dark3);
+}
+
+#my-projects-list a:hover{
+    transition: .4s;
+    color: var(--dark4);
+}
+
+:is(.img-profile,.img-who-am-i){
+    box-shadow: 1px 1px 1px 1px var(--cyan1);
+}
+
 footer{
     padding: 4rem;
     display: flex;
