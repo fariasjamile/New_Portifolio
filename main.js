@@ -31,3 +31,5 @@ function showProjects(data){
         listElement.appendChild(div)
     }
 }
+
+getProjects()
