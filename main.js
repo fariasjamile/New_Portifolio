@@ -29,6 +29,5 @@ function showProjects(data){
         a.appendChild(linkText);
         div.appendChild(a)
         listElement.appendChild(div)
-
     }
 }
