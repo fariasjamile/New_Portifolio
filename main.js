@@ -31,9 +31,3 @@ function showProjects(data){
         listElement.appendChild(div)
     }
 }
-
-<<<<<<< HEAD
-getProjects()
-=======
-getProjects()
->>>>>>> 890153d2bf6140d82104a7b7bccf7c9c22073387
